@@ -3,8 +3,8 @@ const userInput = document.getElementById('user-input');
 const sendBtn = document.getElementById('send-btn');
 
 // Dialogflow API settings
-const API_KEY = 'YOUR_API_KEY';
-const PROJECT_ID = 'YOUR_PROJECT_ID';
+const API_KEY = 'AIzaSyBFB9Q4XOneqvePXnHCBwWUk-5QXITjxPM';
+const PROJECT_ID = 'cit-forum';
 
 // Initialize Dialogflow API
 const dialogflow = require('dialogflow').v2beta1;
